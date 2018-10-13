@@ -10,11 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "mv": "^2.1.1",
-    "restify": "^6.3.4"
+    "restify": "^7.2.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0"
   }
 }
